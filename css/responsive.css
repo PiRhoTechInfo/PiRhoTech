@@ -16,6 +16,11 @@
     {
         padding-bottom: 5%;
     }
+    .leadMember img
+    {
+        height: 200px;
+        width: 200px;
+    }
 }
 @media (max-width:900px)    
 {
@@ -61,6 +66,11 @@
     .message-box
     {
         margin: 5% 0;
+    }
+    .mid a img 
+    {
+    height: 3rem;
+    
     }
 }
  @media (max-width:700px)
@@ -151,5 +161,14 @@
     {
         width: 25%;
     }
+    .headBottom
+    {
+    margin-top: 45%;
+    }
+    .header1
+    {
+        height: 500px;
+    }
+    
 
 }
